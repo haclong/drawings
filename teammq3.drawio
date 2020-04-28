@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T20:54:11.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="uGhKQ_sf4X19k539t1kw" version="13.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-04-28T20:57:51.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="pXDt-bHeTA-b3aI91Xx2" version="13.0.2" type="github" pages="5">
   <diagram id="guDGesBNGRCsx8OKaBN8" name="mapping schema">
     <mxGraphModel dx="1320" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1213,7 +1213,7 @@
         <mxCell id="XbFnVLaBcplvy4-4FNYC-61" value="(user_user.usagename)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#f0a30a;strokeColor=#BD7000;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="hhUYsdXTJktRggpPgmrf-151">
           <mxGeometry y="156" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hhUYsdXTJktRggpPgmrf-156" value="+ createdOn" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hhUYsdXTJktRggpPgmrf-151">
+        <mxCell id="hhUYsdXTJktRggpPgmrf-156" value="+ createdOn" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="hhUYsdXTJktRggpPgmrf-151">
           <mxGeometry y="182" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="hhUYsdXTJktRggpPgmrf-157" value="+ createdBy (FK)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="hhUYsdXTJktRggpPgmrf-151">
@@ -1878,7 +1878,7 @@
         <mxCell id="hhUYsdXTJktRggpPgmrf-25" value="+ contribute_code (PK)" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="hhUYsdXTJktRggpPgmrf-24">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hhUYsdXTJktRggpPgmrf-26" value="+ contribute_datecrea" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="hhUYsdXTJktRggpPgmrf-24">
+        <mxCell id="hhUYsdXTJktRggpPgmrf-26" value="+ contribute_datecrea" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="hhUYsdXTJktRggpPgmrf-24">
           <mxGeometry y="52" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="hhUYsdXTJktRggpPgmrf-27" value="+ contribute_datemodif" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="hhUYsdXTJktRggpPgmrf-24">
@@ -1925,13 +1925,13 @@
         <mxCell id="hhUYsdXTJktRggpPgmrf-228" value="+ createdOn" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="hhUYsdXTJktRggpPgmrf-220">
           <mxGeometry y="208" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hhUYsdXTJktRggpPgmrf-229" value="+ createdBy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hhUYsdXTJktRggpPgmrf-220">
+        <mxCell id="hhUYsdXTJktRggpPgmrf-229" value="+ createdBy (FK)" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hhUYsdXTJktRggpPgmrf-220">
           <mxGeometry y="234" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="hhUYsdXTJktRggpPgmrf-230" value="+ updatedOn" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="hhUYsdXTJktRggpPgmrf-220">
           <mxGeometry y="260" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hhUYsdXTJktRggpPgmrf-231" value="+ updatedBy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="hhUYsdXTJktRggpPgmrf-220">
+        <mxCell id="hhUYsdXTJktRggpPgmrf-231" value="+ updatedBy (FK)" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="hhUYsdXTJktRggpPgmrf-220">
           <mxGeometry y="286" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XbFnVLaBcplvy4-4FNYC-147" value="+ updator" style="text;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="hhUYsdXTJktRggpPgmrf-220">
