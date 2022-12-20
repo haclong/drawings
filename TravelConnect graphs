@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T10:55:05.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="nbVu2mIrpL1goikyMb3f" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-20T10:56:19.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="DPRdJZkAIHRMimYKdzD1" version="20.7.4" type="github" pages="3">
   <diagram id="iTy4bChrka1R1efdenSz" name="Niveau 0">
     <mxGraphModel dx="1372" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -362,7 +362,7 @@
             <mxPoint x="845" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZOQRgcDp1orJPNP57Lm-5" value="Token" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;" parent="3nMc0VJEE9mnY34GbqiB-1" vertex="1">
+        <mxCell id="AZOQRgcDp1orJPNP57Lm-5" value="Token&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;" parent="3nMc0VJEE9mnY34GbqiB-1" vertex="1">
           <mxGeometry x="699" y="352.66" width="119" height="70.34" as="geometry" />
         </mxCell>
         <mxCell id="9jlfTppRBazLKkttnFce-0" value="TO3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;verticalAlign=top;strokeColor=#33A64C;strokeWidth=8;" parent="3nMc0VJEE9mnY34GbqiB-1" vertex="1">
