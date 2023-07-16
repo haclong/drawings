@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T19:15:34.293Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="cpBSOUZ1DCGwL6nVe-Pb" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T19:17:11.904Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="v-_SpR4Rdw_SXq7cflC6" version="21.6.2" type="github">
   <diagram name="Page-1" id="p7Q0gR2Xs5QQkEZGU7Py">
     <mxGraphModel dx="1372" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NGlfeHy7Dn8biuc7D4nB-1" value="MVC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NGlfeHy7Dn8biuc7D4nB-1" value="MVC" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;spacingBottom=12;" vertex="1" parent="1">
           <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NGlfeHy7Dn8biuc7D4nB-2" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NGlfeHy7Dn8biuc7D4nB-2" value="API" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;spacingBottom=12;" vertex="1" parent="1">
           <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NGlfeHy7Dn8biuc7D4nB-3" value="WISHLIST + AUTH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
