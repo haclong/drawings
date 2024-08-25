@@ -128,7 +128,7 @@
           <mxGeometry x="220" y="50" width="59" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_Fe2m7hEjs8gQzXyp6RX-53" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-60" y="-220" width="280" height="171" as="geometry" />
+          <mxGeometry x="-90" y="-230" width="280" height="171" as="geometry" />
         </mxCell>
         <mxCell id="_Fe2m7hEjs8gQzXyp6RX-54" value="Client confidentiel" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="_Fe2m7hEjs8gQzXyp6RX-53">
           <mxGeometry x="30" width="180" height="30" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="9" y="150" width="21" height="21" as="geometry" />
         </mxCell>
         <mxCell id="_Fe2m7hEjs8gQzXyp6RX-56" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="240" y="-220" width="280" height="170" as="geometry" />
+          <mxGeometry x="220" y="-230" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_Fe2m7hEjs8gQzXyp6RX-57" value="Client externe" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="_Fe2m7hEjs8gQzXyp6RX-56">
           <mxGeometry x="30" width="180" height="30" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="9" y="60" width="21" height="21" as="geometry" />
         </mxCell>
         <mxCell id="_Fe2m7hEjs8gQzXyp6RX-59" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="547" y="-220" width="280" height="170" as="geometry" />
+          <mxGeometry x="530" y="-230" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_Fe2m7hEjs8gQzXyp6RX-60" value="Client public" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="_Fe2m7hEjs8gQzXyp6RX-59">
           <mxGeometry x="30" width="180" height="30" as="geometry" />
