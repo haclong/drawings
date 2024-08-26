@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.7">
   <diagram name="Page-1" id="TJ5gsJ8iWOW6bga7UIhC">
-    <mxGraphModel dx="2508" dy="1485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2793" dy="2263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -576,6 +576,18 @@
         </mxCell>
         <mxCell id="_Fe2m7hEjs8gQzXyp6RX-190" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#C73500;fillColor=#fa6800;fontColor=#FFFFFF;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2710" y="165.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Fe2m7hEjs8gQzXyp6RX-191" value="CLIENT CREDENTIALS GRANT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="302.4" y="-147.5" width="317.6" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Fe2m7hEjs8gQzXyp6RX-193" value="RESOURCE OWNER CREDENTIALS GRANT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780.25" y="-270" width="289.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Fe2m7hEjs8gQzXyp6RX-194" value="IMPLICIT GRANT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1385.5" y="-279" width="289.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Fe2m7hEjs8gQzXyp6RX-195" value="AUTHORIZATION CODE GRANT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2248.6" y="-280" width="461.4" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
